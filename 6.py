@@ -15,3 +15,5 @@ if type(first_day_distance) == int and type(total_distance) == int:
         first_day_distance = first_day_distance + (first_day_distance * 0.10)
     print('Спортсмен достиг результата за %s дней' % (day_param))
 print('Конец программы')
+
+
