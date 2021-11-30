@@ -1,3 +1,5 @@
+#Задание 6
+
 def int_func(word):
     return(word[0].upper() + word[1:])
 out_list = []

@@ -1,3 +1,5 @@
+#Задание 4
+
 #Без цикла
 def my_root_func(x, y):
     print(x ** y)

@@ -1,3 +1,5 @@
+#Задание 2
+
 user_details = {'имя': '', 'фамилия': '', 'год рождения': '', 'город проживания': '', 'email': '', 'телефон': ''}
 
 def user_info(name, last_name, year, city, email, phone):

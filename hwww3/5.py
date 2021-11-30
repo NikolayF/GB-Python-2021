@@ -1,3 +1,5 @@
+#Задание 5
+
 sum_out = 0
 exit_param = ''
 while exit_param != '@':

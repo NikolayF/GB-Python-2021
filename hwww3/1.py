@@ -1,3 +1,4 @@
+#Задание 1
 user_numbers = ('первое число', 'второе число')
 numbers_mass = []
 def divide_func(first_num, second_num):
