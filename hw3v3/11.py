@@ -15,3 +15,4 @@ for user_number in user_numbers:
     numbers_mass.append(input(f'Введите {user_number} - '))
 
 divide_func(numbers_mass[0], numbers_mass[1])
+
